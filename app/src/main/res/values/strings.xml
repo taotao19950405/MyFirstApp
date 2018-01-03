@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Frist App</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+
+    <string name="click_button_send">Hello World!</string>
+    <string name="hello_world">Hello World!</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_map_fragment">Hello map</string>
+    <string name="hello_groupinfo_fragment">Hello groupinfo</string>
+
+
+    <!--<string name="button_save">Save</string>-->
+</resources>
