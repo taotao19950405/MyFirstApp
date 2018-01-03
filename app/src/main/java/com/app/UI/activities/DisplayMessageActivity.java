@@ -15,8 +15,7 @@ public class DisplayMessageActivity extends AppCompatActivity {
 //this is trying
     @Override
     protected void onCreate(Bundle savedInstanceState) {
-        Locale locale2 = Locale.getDefault();
-        Locale locale3 = Locale.getDefault();
+
 /*        super.onCreate(savedInstanceState);
         Button myButton = new Button(this);
         myButton.setText("special");
