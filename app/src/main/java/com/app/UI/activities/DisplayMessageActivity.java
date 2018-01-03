@@ -10,9 +10,7 @@ import com.example.myfristapp.R;
 import java.util.Locale;
 
 public class DisplayMessageActivity extends AppCompatActivity {
-//trying to use git merge
-//following example
-//this is trying
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         Locale locale2 = Locale.getDefault();
